@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ytaztdnikun.github.io</id>
-    <title>一台爱折腾的电脑的个人博客</title>
-    <updated>2024-06-22T15:01:21.244Z</updated>
+    <title>一台爱折腾的电脑</title>
+    <updated>2024-06-22T15:02:30.020Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ytaztdnikun.github.io"/>
     <link rel="self" href="https://ytaztdnikun.github.io/atom.xml"/>
     <subtitle>近朱者赤，近墨者黑。——谢云</subtitle>
     <logo>https://ytaztdnikun.github.io/images/avatar.png</logo>
     <icon>https://ytaztdnikun.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2024, 一台爱折腾的电脑的个人博客</rights>
+    <rights>All rights reserved 2024, 一台爱折腾的电脑</rights>
     <entry>
         <title type="html"><![CDATA[一台爱折腾的电脑的测试文章]]></title>
         <id>https://ytaztdnikun.github.io/post/yi-tai-ai-zhe-teng-de-dian-nao-de-ce-shi-wen-zhang/</id>
